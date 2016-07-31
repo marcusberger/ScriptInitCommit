@@ -51,8 +51,8 @@ Depois que o arquivo já foi movido, crie um link(opcional) para initcommit
 
 
 ```sh
-cd /usr/local/bin
-sudo link initcommit.sh initcommit
+$ cd /usr/local/bin
+$ sudo link initcommit.sh initcommit
 
 ```
 
