@@ -21,7 +21,7 @@ $ initicommit
 
 ```
 
-#Como usar
+#Instalação
 
 Clone o projeto com o script:
 
