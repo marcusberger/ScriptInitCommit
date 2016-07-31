@@ -17,7 +17,7 @@ por isso:
 
 ```sh
 
-$ initicommit
+$ initcommit
 
 ```
 
