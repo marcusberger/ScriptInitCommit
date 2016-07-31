@@ -1,4 +1,4 @@
-##Função
+#Objetivo
 
 Substituir isso:
 
