@@ -49,8 +49,9 @@ $ sudo mv initcommit.sh /usr/local/bin
 
 Depois que o arquivo já foi movido, crie um link(opcional) para initcommit
 
-```sh
 
+```sh
+cd /usr/local/bin
 sudo link initcommit.sh initcommit
 
 ```
