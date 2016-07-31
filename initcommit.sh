@@ -2,6 +2,18 @@
 #script para primeiro commit
 #autor: Marcus Berger
 
+#instalação
+echo "instalando"
+echo "----|......40%"
+sudo mv initcommit.sh /usr/local/bin
+sleep 1
+echo "--------|..80%"
+cd /usr/local/bin
+sudo link initcommit.sh initcommit
+sleep 1
+echo "SUCESSO!!"
+exit
+
 
 #Pega nome do usuario e repositório para fazer o acesso remoto
 echo""
